@@ -20,7 +20,7 @@
 <br><br>
 🔭 In the next 5 years, I see myself becoming a full-stack developer, creating real-life based projects. I'm always on the lookout for internships that provide hands-on experience and learning opportunities.
 <br><br>
-🌐 Check out my portfolio: manasshah.netlify.app
+🌐 Check out my portfolio: <a href="http://manasshah.netlify.app">Portfolio Website</a>
 <br><br>
 🎓 Besides coding, I enjoy playing chess and hosting events. I was the head of an event called "Blind Coding" at my college.<br>
 <br> Let's connect and build something amazing together!<br><br>
