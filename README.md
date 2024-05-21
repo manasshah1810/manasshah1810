@@ -29,6 +29,6 @@ Connect With me on:
   <a href = 'https://www.linkedin.com/in/manasshah1210'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="Linkedln logo"  /></a>
   <img width="12" />
-  <a href = 'manasshah1210@gmail.com'>
+  <a href = 'mailto:manasshah1210@gmail.com'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail Logo"  /></a>
 </div>
