@@ -5,11 +5,14 @@
 <ul>
 <li>HTML, CSS, JS</li>
 <li>C, C#</li>
-<li>Java, Python</li>
+<li>Java, Python, Flask</li>
 <li>Data Structures</li>
-<li>Flutter, React</li>
+<li>Dart,Flutter</li>
 <li>UI/UX Design</li>
 <li>MySQL, PHP</li>
+<li>.NET Framework</li>
+<li>WordPress</li>
+<li>Firebase</li>
 </ul><br>
 <br>🚀 Some of my projects include:<br>
 <ul>
