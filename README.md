@@ -26,7 +26,7 @@
 <br> Let's connect and build something amazing together!<br><br>
 Connect With me on:
 <div align="left">
-  <a href = 'www.linkedin.com/in/manasshah1210'>
+  <a href = 'https://www.linkedin.com/in/manasshah1210'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="Linkedln logo"  /></a>
   <img width="12" />
   <a href = 'manasshah1210@gmail.com'>
