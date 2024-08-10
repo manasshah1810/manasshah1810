@@ -1,6 +1,6 @@
 <h2>👋 Hi there! I'm Manas Shah.</h2>
 <br>👨‍🎓 Currently, I'm a student pursuing a diploma in Computer Science Engineering at Shri Bhagubhai Mafatlal Polytechnic.<br>
-<br>👨‍💻 Right now, I'm interning as an app developer at Hophead until June 22nd. Previously, I've completed virtual internships at CodSoft in Java and JavaScript, and participated in two hackathons.<br>
+<br>👨‍💻 I've completed many virtual internships at CodSoft in Java and JavaScript,HopHead and participated in two hackathons.<br>
 <br>🌟 My main skills are in frontend development, and I've worked with:<br>
 <ul>
 <li>HTML, CSS, JS</li>
