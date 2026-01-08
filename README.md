@@ -1,12 +1,12 @@
 <h2>👋 Hi there! I'm Manas Shah.</h2>
-<br>👨‍🎓 Currently, I'm a student pursuing a diploma in Computer Science Engineering at Shri Bhagubhai Mafatlal Polytechnic.<br>
-<br>👨‍💻 I've completed many virtual internships at CodSoft in Java and JavaScript,HopHead and participated in two hackathons.<br>
-<br>🌟 My main skills are in frontend development, and I've worked with:<br>
+<br>👨‍🎓 Currently, I'm a student pursuing B.Tech in Artificial Intelligence & Machine Learning with Honours in Immersive Tech at Dwarkadas J. Sanghvi College of Engineering<br>
+<br>👨‍💻 I've completed many virtual internships at CodSoft in Java and JavaScript,HopHead and participated in more than 5 hackathons.<br>
+<br>🌟 My main skills are in full stack development, and I've worked with:<br>
 <ul>
-<li>HTML, CSS, JS</li>
+<li>HTML, CSS, JS, React JS, Next JS</li>
 <li>C, C#</li>
 <li>Java, Python, Flask</li>
-<li>Data Structures</li>
+<li>Data Structures, Blockchain, Cyber Security</li>
 <li>Dart,Flutter</li>
 <li>UI/UX Design</li>
 <li>MySQL, PHP</li>
